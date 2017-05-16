@@ -1,7 +1,7 @@
 /*
  * 
- * This is designed to work with a computer hooked to the USB port (Serial) and another
- * serial device on pins 2 and 3 (BTSerial).  
+ * This is designed to work with a computer hooked to the USB port (Serial) of an 
+ * Arduino and another serial device on pins 2 and 3 (BTSerial).  
  * 
  * The original testing device was a BlueTooth module.  I was getting garbled text over
  * 120-130 characters.  I think this was due to a memory issue with an ATMega 328, so
