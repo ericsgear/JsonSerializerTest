@@ -12,6 +12,11 @@
  * 
  * Test data to put into the Serial Monitor window: {test:"data"}
  * 
+ *  BTW, you will need ArduinoJson.h from : https://github.com/bblanchon/ArduinoJson/
+ *  https://bblanchon.github.io/ArduinoJson/
+ *
+ *  The license for ArduinoJson.h is also the MIT license.
+ *
  */
 
 #include <ArduinoJson.h>
